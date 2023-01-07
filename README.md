@@ -2,8 +2,8 @@
 ## Hello! We are <a href="" target="_blank">MEOW</a>!
 Founder:
 <p>
-<a href="https://github.com/jovaneah"><img src="https://avatars.githubusercontent.com/u/92638512?v=4" alt="Jovaneah" width="96px" height="96px"></a>
-<a href="https://github.com/rominaru"><img src="https://avatars.githubusercontent.com/u/92161801?v=4" alt="Rominaru" width="96px" height="96px"></a>
+<a href="https://github.com/jovaneah"><img src="https://avatars.githubusercontent.com/u/92638512?v=4" alt="Jovaneah" width="120px" height="120px"></a>
+<a href="https://github.com/rominaru"><img src="https://avatars.githubusercontent.com/u/92161801?v=4" alt="Rominaru" width="120px" height="120px"></a>
 </p>
 <br />
 <br />
