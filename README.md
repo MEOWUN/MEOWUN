@@ -6,8 +6,6 @@ Founder:
 <a href="https://github.com/rominaru"><img src="https://avatars.githubusercontent.com/u/92161801?v=4" alt="Rominaru" width="120px" height="120px"></a>
 </p>
 <br />
-<br />
-<br />
 
 ### 📕 Our goals in 2023✨
 
