@@ -1,10 +1,17 @@
 
 ## Hello! We are <a href="" target="_blank">MEOW</a>!
-Founder:
+<br />
+<img src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" width="300px">
+<h2>Machine learning, Ethical hacking, Online World</h2>
+<br />
+<h3>Founder:</h3>
 <p>
 <a href="https://github.com/jovaneah"><img src="https://avatars.githubusercontent.com/u/92638512?v=4" alt="Jovaneah" width="120px" height="120px"></a>
 <a href="https://github.com/rominaru"><img src="https://avatars.githubusercontent.com/u/92161801?v=4" alt="Rominaru" width="120px" height="120px"></a>
 </p>
+
+### We have two choices when we wake up in the morning: either we go back to sleep and dream, or we wake up and chase that dream✨
+
 <br />
 
 ### 📕 Our goals in 2023✨
